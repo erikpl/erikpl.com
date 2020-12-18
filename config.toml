@@ -1,0 +1,25 @@
+baseurl = "https://erikpl.com/"
+title = "Erik Peralta Løvaas"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+staticDir = "public/hugo-theme-console"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "projects/"
+  url = "projects/"
+  
+  [[params.navlinks]]
+  name = "resumé"
+  url = "resume/"
+
+  [[params.navlinks]]
+  name = "reach_out/"
+  url = "reach_out/"
