@@ -3,6 +3,7 @@ title = "Erik Peralta Løvaas"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 staticDir = "public/hugo-theme-console"
+layoutDir = "layouts"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
