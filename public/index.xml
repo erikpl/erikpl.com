@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://erikpl.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About me</title>
+      <link>https://erikpl.com/about/</link>
+      <pubDate>Fri, 11 Dec 2020 18:10:04 +0000</pubDate>
+      
+      <guid>https://erikpl.com/about/</guid>
+      <description>Hello! My name&amp;rsquo;s Erik Peralta Løvaas, and I&amp;rsquo;m a programmer and Computer Science student at the Norwegian Institute of Science and Technology (NTNU).
+I am passionate about writing clean and efficient code that solves challenging, real-world problems. So far, writing back-ends in Java and Python and simple front-ends using JAMstack technology has served me well, but I am looking forward to learning new technologies and broaden my horizons.
+Furthermore, I also have experience using web technologies, using and managing Unix-like systems, and doing your typical DevOps work.</description>
+    </item>
+    
+    <item>
       <title>Warsaw, Poland</title>
       <link>https://erikpl.com/photos/warsaw-poland/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
@@ -77,19 +88,6 @@
       
       <guid>https://erikpl.com/posts/introduction/</guid>
       <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://erikpl.com/about/</link>
-      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
-      <guid>https://erikpl.com/about/</guid>
-      <description>A minimal, responsive and light theme for Hugo inspired by Linux console.
-Installation $ mkdir themes $ cd themes $ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console See the Hugo documentation for more information.
-Configuration Set theme parameter in your config file:
-theme = &amp;quot;hugo-theme-console&amp;quot; License Copyright © 2020 Marcin Mierzejewski
-The theme is released under the MIT License. Check the original theme license for additional licensing information.</description>
     </item>
     
   </channel>
