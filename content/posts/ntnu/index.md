@@ -6,7 +6,7 @@ type: "gallery"
 image: "ntnu.png"
 ---
 
-**Institution:** [The Norwegian Institute of Science and Technology (NTNU)](https://www.ntnu.edu/).
+**Institution:** [The Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/).
 
 **Start date:** August 2019.
 
