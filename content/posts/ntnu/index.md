@@ -1,5 +1,5 @@
 ---
-title: "Bachelor in Informatics (Aug 2019 - Jun 2022)"
+title: "Bachelor in Informatics"
 date: 2020-12-18T17:51:38+01:00
 category: "education"
 type: "gallery"

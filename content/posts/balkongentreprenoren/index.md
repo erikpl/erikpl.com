@@ -1,10 +1,11 @@
 ---
-title: "Balkongentreprenøren AS (Oct 2019 - Sept 2019)"
+title: "IT Consultant"
 date: 2020-12-18T18:11:47+01:00
 type: "gallery"
 category: "experience"
 image: "balkongentreprenoren.png"
 ---
+**Organization:** Balkongentreprenøren AS
 
 **Start date:** October 2019
 
